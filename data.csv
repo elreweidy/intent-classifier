@@ -1,0 +1,269 @@
+text,intent
+"What's the weather like today?",get_weather
+"Set an alarm for 7 AM",set_alarm
+"Play some music",play_music
+"What's on my calendar?",check_calendar
+"Tell me a joke",tell_joke
+"What's the capital of France?",general_query
+"Open the garage door",home_automation
+"Turn on the lights",home_automation
+"What's the meaning of life?",general_query
+"How far is the moon?",general_query
+"Order a pizza",food_ordering
+"Find a nearby restaurant",find_restaurant
+"What's the news today?",get_news
+"Turn off the TV",home_automation
+"Dim the lights",home_automation
+"Set a timer for 10 minutes",set_timer
+"Play the next song",play_music
+"Pause the music",play_music
+"Remind me to call mom at 5 PM",set_reminder
+"How's the stock market today?",get_stock_info
+"What's the time in New York?",get_time
+"Send a message to John",send_message
+"Call Sarah",make_call
+"Find my phone",device_tracking
+"Start a workout session",start_workout
+"Turn on the air conditioner",home_automation
+"What's my battery level?",check_battery
+"Where's my package?",track_package
+"What's the recipe for pancakes?",get_recipe
+"Set a reminder for tomorrow's meeting",set_reminder
+"What's 10 times 15?",calculate
+"Turn off the alarm",home_automation
+"Schedule a meeting for 2 PM",schedule_meeting
+"Show me the latest emails",check_email
+"Book a taxi",book_ride
+"Translate 'hello' to Spanish",translate
+"What's the synonym of 'happy'?",dictionary_query
+"What's the weather in Tokyo?",get_weather
+"Set an alarm for 6 AM tomorrow",set_alarm
+"Play a relaxing playlist",play_music
+"Add milk to my shopping list",add_to_list
+"What's on my to-do list?",check_todo_list
+"Turn off the kitchen lights",home_automation
+"Lock the front door",home_automation
+"How many calories in an apple?",nutrition_info
+"Remind me to take medicine at 8 PM",set_reminder
+"What's the temperature outside?",get_weather
+"Cancel my 3 PM meeting",cancel_meeting
+"Find the nearest gas station",find_gas_station
+"Send an email to my boss",send_email
+"Check my voicemail",check_voicemail
+"Update my calendar",update_calendar
+"Turn on the coffee machine",home_automation
+"How much is 20 dollars in euros?",currency_conversion
+"What's the latest sports score?",get_sports_update
+"What's my bank balance?",check_balance
+"Find me a movie to watch",find_movie
+"Set an alarm for 5:30 AM",set_alarm
+"What's the capital of Japan?",general_query
+"Tell me a fun fact",general_query
+"Start a video call with Mark",make_call
+"Turn off the living room lights",home_automation
+"Remind me to buy groceries",set_reminder
+"What's the best route to work?",get_directions
+"Play a podcast",play_podcast
+"How's the traffic to the airport?",get_traffic_info
+"Turn on the fan",home_automation
+"What's the weather in London?",get_weather
+"Set a timer for 20 minutes",set_timer
+"Open the window blinds",home_automation
+"Show me my photos from last vacation",show_photos
+"Set a reminder to call dad on Sunday",set_reminder
+"Play a game",play_game
+"What's the square root of 64?",calculate
+"Tell me a story",tell_story
+"What's my next appointment?",check_calendar
+"Turn off the bedroom lights",home_automation
+"Check the weather forecast for tomorrow",get_weather_forecast
+"Book a flight to New York",book_flight
+"Cancel my dinner reservation",cancel_reservation
+"What's the meaning of 'serendipity'?",dictionary_query
+"Remind me to pick up dry cleaning",set_reminder
+"Send a text to Emily",send_message
+"Order an Uber",book_ride
+"What's the exchange rate for yen to USD?",currency_conversion
+"Turn off the air conditioner",home_automation
+"Play my workout playlist",play_music
+"Find me a good book to read",find_book
+"Where's the nearest hospital?",find_hospital
+"Schedule a dentist appointment",schedule_appointment
+"Turn on the oven",home_automation
+"What's the time in Tokyo?",get_time
+"Remind me to take out the trash",set_reminder
+"How's the weather in Paris?",get_weather
+"Play the previous song",play_music
+"What's the best pizza place nearby?",find_restaurant
+"Set a reminder for my dentist appointment",set_reminder
+"How do I make spaghetti?",get_recipe
+"Turn off the bathroom lights",home_automation
+"Remind me to water the plants",set_reminder
+"Find the cheapest gas station",find_gas_station
+"Check my bank account balance",check_balance
+"Send a message to my team",send_message
+"What's the latest on the stock market?",get_stock_info
+"Order my usual coffee",food_ordering
+"Set an alarm for 8 AM",set_alarm
+"How many grams in a pound?",unit_conversion
+"Play a nature sounds playlist",play_music
+"Cancel my Uber",cancel_ride
+"Turn on the heating",home_automation
+"Remind me to book a hotel",set_reminder
+"What's the capital of Italy?",general_query
+"How's the weather in Berlin?",get_weather
+"Start a meditation session",start_meditation
+"Send a gift to Sarah",send_gift
+"What's the best way to get to the airport?",get_directions
+"Find a good sushi restaurant",find_restaurant
+"Play the latest episode of my favorite podcast",play_podcast
+"Turn off the fan",home_automation
+"Book a table at a restaurant",book_table
+"Translate 'goodbye' to French",translate
+"How many ounces in a cup?",unit_conversion
+"Schedule a haircut",schedule_appointment
+"Check my internet speed",check_internet_speed
+"Order groceries online",order_groceries
+"Set a reminder for my meeting at 2 PM",set_reminder
+"Play the radio",play_music
+"Send flowers to my wife",send_gift
+"What's the meaning of 'ephemeral'?",dictionary_query
+"Show me the weather forecast for the week",get_weather_forecast
+"Turn off the alarm clock",home_automation
+"Find a nearby coffee shop",find_coffee_shop
+"How many days until Christmas?",general_query
+"Remind me to pick up the kids at 3 PM",set_reminder
+"Set a timer for 30 minutes",set_timer
+"Book a hotel for my trip",book_hotel
+"What's the capital of Canada?",general_query
+"Play some jazz music",play_music
+"Check my credit score",check_credit_score
+"Find a new podcast to listen to",find_podcast
+"What's the temperature in San Francisco?",get_weather
+"Turn on the kitchen lights",home_automation
+"Remind me to send an email to my boss",set_reminder
+"How do I get to the nearest train station?",get_directions
+"Book a flight to London",book_flight
+"Translate 'thank you' to German",translate
+"What's the synonym for 'fast'?",dictionary_query
+"Set a reminder to call grandma",set_reminder
+"Turn off the living room TV",home_automation
+"Check my calendar for tomorrow",check_calendar
+"What's the price of Bitcoin?",get_crypto_info
+"Find a vegetarian restaurant",find_restaurant
+"Play some relaxing music",play_music
+"How many teaspoons in a tablespoon?",unit_conversion
+"Order my usual takeout",food_ordering
+"Schedule a call with John",schedule_meeting
+"Check the weather for the weekend",get_weather_forecast
+"Turn on the office lights",home_automation
+"What's the latest sports news?",get_sports_update
+"What's the currency in Japan?",general_query
+"Show me my recent orders",check_recent_orders
+"Remind me to pay the bills",set_reminder
+"Find the nearest pharmacy",find_pharmacy
+"Turn off the coffee machine",home_automation
+"Set a reminder to go for a run",set_reminder
+"What's the best route to the gym?",get_directions
+"Book a massage appointment",schedule_appointment
+"Check the traffic to work",get_traffic_info
+"How do I make an omelette?",get_recipe
+"Send an email to my accountant",send_email
+"What's the meaning of 'ubiquitous'?",dictionary_query
+"Turn on the garden sprinklers",home_automation
+"Order a taxi to the airport",book_ride
+"Remind me to take my medicine",set_reminder
+"What's the time in Sydney?",get_time
+"Find a recipe for chocolate cake",get_recipe
+"Turn off the porch lights",home_automation
+"What's the stock price of Apple?",get_stock_info
+"Play some classical music",play_music
+"What's the latest movie release?",find_movie
+"Schedule a meeting with the marketing team",schedule_meeting
+"How many cups in a gallon?",unit_conversion
+"What's the fastest way to downtown?",get_directions
+"Remind me to call the plumber",set_reminder
+"Set an alarm for 9 PM",set_alarm
+"Play some rock music",play_music
+"How do I reset my password?",get_instructions
+"What's the distance to the moon?",general_query
+"Turn off the garage lights",home_automation
+"Find a nearby park",find_park
+"What's the latest fashion trend?",get_fashion_trend
+"Send a thank you note to Jane",send_message
+"What's the boiling point of water?",general_query
+"Order a cab for 6 AM",book_ride
+"Set a timer for 5 minutes",set_timer
+"What's the population of India?",general_query
+"Translate 'goodnight' to Italian",translate
+"Remind me to submit my report",set_reminder
+"Find a pet-friendly hotel",find_hotel
+"Turn on the backyard lights",home_automation
+"What's my horoscope today?",get_horoscope
+"Order a birthday cake",food_ordering
+"Play the top hits playlist",play_music
+"Find me a documentary to watch",find_movie
+"What's the square root of 144?",calculate
+"Remind me to schedule a doctor's appointment",set_reminder
+"What's the capital of Brazil?",general_query
+"Set a reminder to pick up milk",set_reminder
+"Check the score of the football game",get_sports_update
+"How many kilometers in a mile?",unit_conversion
+"Turn off the thermostat",home_automation
+"Book a ride to the train station",book_ride
+"Find a dog park nearby",find_park
+"How do I bake a cake?",get_recipe
+"Set an alarm for 10 PM",set_alarm
+"Translate 'where is the bathroom?' to Spanish",translate
+"Check the traffic to downtown",get_traffic_info
+"What's the exchange rate for euros to pounds?",currency_conversion
+"Play a comedy podcast",play_podcast
+"What's the current temperature?",get_weather
+"Find the nearest library",find_library
+"Remind me to pay rent",set_reminder
+"Send a good luck message to my friend",send_message
+"Book a train ticket to Boston",book_train_ticket
+"How do I tie a tie?",get_instructions
+"What's the longest river in the world?",general_query
+"Order sushi for dinner",food_ordering
+"Turn off the sprinkler system",home_automation
+"Find a yoga class nearby",find_class
+"Check the weather in Rome",get_weather
+"Translate 'thank you very much' to Japanese",translate
+"What's the height of Mount Everest?",general_query
+"Remind me to buy concert tickets",set_reminder
+"Set a reminder for my workout",set_reminder
+"What's the distance from Earth to Mars?",general_query
+"Find a vegetarian recipe",get_recipe
+"How do I change a tire?",get_instructions
+"Book a spa appointment",schedule_appointment
+"Send a birthday message to my sister",send_message
+"What's the time difference between New York and Tokyo?",get_time
+"Turn on the dishwasher",home_automation
+"Order flowers for Mother's Day",send_gift
+"Set a reminder to do laundry",set_reminder
+"Play some meditation music",play_music
+"What's the latest tech news?",get_news
+"Find the closest bus stop",find_bus_stop
+"How many grams of sugar in a can of soda?",nutrition_info
+"Book a rental car for the weekend",book_rental_car
+"Set an alarm for 11 AM",set_alarm
+"What's the temperature in New York?",get_weather
+"Turn off the stove",home_automation
+"What's the best route to the beach?",get_directions
+"Find me a thriller movie",find_movie
+"How do I make a paper airplane?",get_instructions
+"Order groceries for delivery",order_groceries
+"What's the freezing point of water?",general_query
+"Check the exchange rate for dollars to yen",currency_conversion
+"Remind me to feed the cat",set_reminder
+"What's the distance between London and Paris?",general_query
+"Send a meeting invite to my team",send_email
+"What's the synonym of 'difficult'?",dictionary_query
+"Find a hotel with a pool",find_hotel
+"Turn on the television",home_automation
+"Play the latest audiobook",play_audiobook
+"Order Chinese food",food_ordering
+"What's the formula for calculating area?",general_query
+"Set a reminder for my evening jog",set_reminder
+"What's the latest weather update?",get_weather
